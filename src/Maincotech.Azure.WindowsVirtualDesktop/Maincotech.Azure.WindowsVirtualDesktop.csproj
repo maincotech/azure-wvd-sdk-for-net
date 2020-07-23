@@ -8,6 +8,7 @@
     <PackageProjectUrl>https://github.com/maincotech/azure-wvd-sdk-for-net</PackageProjectUrl>
     <Authors>Minghao Li</Authors>
     <Description>A .net wrapper for Windows Virtual Desktop</Description>
+    <RepositoryUrl>https://github.com/maincotech/azure-wvd-sdk-for-net</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
